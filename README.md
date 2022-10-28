@@ -8,7 +8,7 @@
 4.进入需要学习的课程，每次学习时，点击“科学学习”，即可打开多个页面，同时学习；  
 5.不会出现“点击继续观看”的弹出框；  
 
-#如果你懂的安装油猴，请直接跳转到https://greasyfork.org/zh-CN/scripts/452787安装即可  
+##如果你懂的安装油猴，请直接跳转到[link](https://greasyfork.org/zh-CN/scripts/452787':target=_blank')，安装即可  
 
 # 完成安装教程如下：  
 
@@ -20,7 +20,7 @@
 
 3、搜索安装Tampermonkey  
 ![image](https://github.com/pysoer/cmatcHelp.js/blob/main/img/%E5%B9%B2%E9%83%A8%E5%9F%B9%E8%AE%AD%E5%AD%A6%E9%99%A2%E6%95%99%E7%A8%8B43.png)  
-4、打开https://greasyfork.org/zh-CN/scripts/452787，安装插件。  
+4、打开[link](https://greasyfork.org/zh-CN/scripts/452787':target=_blank')，安装插件。  
 
 ![image](https://github.com/pysoer/cmatcHelp.js/blob/main/img/%E5%B9%B2%E9%83%A8%E5%9F%B9%E8%AE%AD%E5%AD%A6%E9%99%A2%E6%95%99%E7%A8%8B122.png)  
 5、打开干部培训学院首页，将会自动跳转到登录页面，输入账号密码点击登录  
