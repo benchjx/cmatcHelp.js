@@ -12,7 +12,7 @@
 
 # 完成安装教程如下：  
 
-1、下载安装edge浏览器  
+1、下载安装edge浏览器[https://www.microsoft.com/zh-cn/edge](https://www.microsoft.com/zh-cn/edge)，谷歌或者其他可以安装插件的浏览器当然也可以。    
 ![image](https://github.com/pysoer/cmatcHelp.js/blob/main/img/%E5%B9%B2%E9%83%A8%E5%9F%B9%E8%AE%AD%E5%AD%A6%E9%99%A2%E6%95%99%E7%A8%8B14.png)  
 
 2、打开扩展  
